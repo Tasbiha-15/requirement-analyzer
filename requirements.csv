@@ -1,0 +1,181 @@
+Requirement,Label
+"Patients should be able to register online.",Functional
+"The system must encrypt all patient data at rest.",Non-Functional
+"Doctors should receive appointment notifications immediately.",Functional
+"The platform should support 99.9% uptime.",Non-Functional
+"Users must be able to reset passwords securely.",Functional
+"Patient records should comply with HIPAA regulations.",Non-Functional
+"The system should allow scheduling recurring appointments.",Functional
+"Response time for queries should not exceed 1 second.",Non-Functional
+"Medical staff can update patient treatment plans.",Functional
+"The interface should be accessible to users with disabilities.",Non-Functional
+"Users should receive SMS reminders 24 hours before appointments.",Functional
+"Data backups must be performed every 24 hours.",Non-Functional
+"The system should allow uploading medical test results.",Functional
+"All communications should use TLS encryption.",Non-Functional
+"Patients should be able to view their medical history.",Functional
+"The application must be compatible with mobile devices.",Non-Functional
+"The platform should allow secure messaging between doctors and patients.",Functional
+"The system must log all user actions for auditing purposes.",Non-Functional
+"Users should be able to cancel appointments up to 2 hours in advance.",Functional
+"The system should scale to support up to 50,000 users concurrently.",Non-Functional
+"Doctors must approve prescriptions before they are dispensed.",Functional
+"The software should comply with FDA regulations for medical devices.",Non-Functional
+"Patient images should be stored securely and accessible only to authorized personnel.",Non-Functional
+"The system should allow exporting reports in PDF format.",Functional
+"The application should load the dashboard within 3 seconds.",Non-Functional
+"Nurses should be able to log patient vitals in real-time.",Functional
+"The platform must ensure data integrity during transmission.",Non-Functional
+"Appointment availability must be updated immediately after booking.",Functional
+"The user interface should support multiple languages.",Non-Functional
+"The system should detect and prevent duplicate patient records.",Functional
+"The backend should handle at least 10,000 transactions per minute.",Non-Functional
+"Patients should be able to provide feedback on services.",Functional
+"The application must automatically log users out after 15 minutes of inactivity.",Non-Functional
+"The system should generate monthly billing reports automatically.",Functional
+"Medical staff should be able to upload training materials.",Functional
+"All data should be encrypted during transmission and at rest.",Non-Functional
+"The platform should provide role-based access control.",Non-Functional
+"The system should support offline data entry and sync when online.",Functional
+"Patient consent must be recorded before any treatment.",Functional
+"The application should prevent SQL injection attacks.",Non-Functional
+"Doctors should be able to generate prescription refill reminders.",Functional
+"The system should be compatible with major browsers.",Non-Functional
+"The system must support integration with laboratory information systems.",Functional
+"Passwords should have a minimum length of 12 characters.",Non-Functional
+"The application should log out users after 5 failed login attempts.",Non-Functional
+"Patients should be able to upload insurance information.",Functional
+"The system should provide analytics dashboards for hospital administrators.",Functional
+"Medical devices should synchronize data automatically with the platform.",Functional
+"The platform should support encrypted video consultations.",Functional
+"The system should prevent unauthorized data access.",Non-Functional
+"Users should be able to search their appointment history.",Functional
+"The system should provide automatic software updates.",Non-Functional
+"The application should have 24/7 technical support availability.",Non-Functional
+"Nurses should receive alerts for critical patient conditions.",Functional
+"The system should comply with GDPR data protection rules.",Non-Functional
+"The platform must handle concurrent access from multiple hospital branches.",Non-Functional
+"The system should send email confirmations after appointment booking.",Functional
+"Patient portal should support biometric login options.",Non-Functional
+"The application must maintain a log of all prescription changes.",Functional
+"Users should be able to update their personal contact information.",Functional
+"The platform should support integration with insurance provider APIs.",Functional
+"Patient data should be anonymized for research purposes.",Non-Functional
+"The system must allow doctors to share notes securely.",Functional
+"The system should generate alerts for expired medications.",Functional
+"The application should allow batch upload of medical records.",Functional
+"All patient-facing pages should be responsive on tablets.",Non-Functional
+"The system should enforce password complexity rules.",Non-Functional
+"Users should be able to filter appointments by date and doctor.",Functional
+"The platform should notify users of system maintenance windows.",Non-Functional
+"Medical staff must authenticate with two-factor authentication.",Non-Functional
+"The system should support voice commands for hands-free data entry.",Functional
+"Patient registration forms should have validation for mandatory fields.",Functional
+"The application should support exporting data in CSV format.",Functional
+"The system must encrypt backup files stored offsite.",Non-Functional
+"Doctors should be able to approve or reject patient referrals.",Functional
+"The platform should track medication adherence for patients.",Functional
+"The system should support integration with pharmacy systems.",Functional
+"System downtime should not exceed 1 hour per month.",Non-Functional
+"The application should allow customization of notification preferences.",Functional
+"The system should detect and prevent duplicate prescriptions.",Functional
+"User sessions should expire after 20 minutes of inactivity.",Non-Functional
+"Patient records should be automatically archived after 7 years.",Non-Functional
+"The platform should support video recording of telemedicine sessions.",Functional
+"System should provide audit trails for all data modifications.",Non-Functional
+"Doctors should be able to view lab test histories.",Functional
+"The system must be compliant with ISO 27001 security standards.",Non-Functional
+"The platform should support multi-factor authentication for admin users.",Non-Functional
+"The application should support dark mode for user interface.",Non-Functional
+"Users should be able to attach documents to their profiles.",Functional
+"The system should allow bulk scheduling of vaccination appointments.",Functional
+"System notifications should be logged for troubleshooting.",Non-Functional
+"The platform must be scalable to support future growth.",Non-Functional
+"Patient feedback should be anonymized before review.",Non-Functional
+"The system should allow emergency contacts to be added to patient profiles.",Functional
+"The platform should support data import/export via API.",Functional
+"The system should validate insurance information with external providers.",Functional
+"The application should have role-based dashboards.",Functional
+"The system should encrypt all sensitive data fields in the database.",Non-Functional
+"The platform should support audit logging of user activity.",Non-Functional
+"Medical staff should be able to generate patient discharge summaries.",Functional
+"The system should support barcode scanning for medication administration.",Functional
+"Application uptime should be monitored and reported weekly.",Non-Functional
+"The system should support multilingual data entry.",Functional
+"Data synchronization should occur within 5 minutes of changes.",Non-Functional
+"The platform must support HIPAA compliant data storage.",Non-Functional
+"System should provide alerts for abnormal vital signs.",Functional
+"Patients should be able to request appointment rescheduling online.",Functional
+"The system should support integration with wearable health devices.",Functional
+"The platform should have a secure admin panel with activity logs.",Non-Functional
+"Medical images should be compressed without losing quality.",Non-Functional
+"The system should allow doctors to create and save custom templates.",Functional
+"The application should be protected against cross-site scripting (XSS).",Non-Functional
+"Users should receive push notifications for appointment reminders.",Functional
+"The system should validate all input fields on the client side.",Non-Functional
+"Patient data should be encrypted during backup and restoration.",Non-Functional
+"The platform should allow exporting audit logs for compliance.",Non-Functional
+"The system must support data recovery in case of hardware failure.",Non-Functional
+"Doctors should have access to a medication interaction checker.",Functional
+,Label
+"The system should allow patients to upload insurance documents.",Functional
+"Appointment cancellation should send an automatic notification to doctors.",Functional
+"Patient medical history should be accessible to authorized specialists only.",Non-Functional
+"The platform must support role-based access control for data privacy.",Non-Functional
+"The application should provide offline access to patient summaries.",Functional
+"System should generate monthly reports on patient visits.",Functional
+"The application should log all user login attempts.",Non-Functional
+"The system must support HL7 standard for health data exchange.",Functional
+"Doctors should be able to request second opinions within the system.",Functional
+"Patient allergies should trigger alerts during prescription entry.",Functional
+"The system must comply with GDPR data protection regulations.",Non-Functional
+"The platform should support automatic software updates.",Non-Functional
+"User interface should be accessible to visually impaired users.",Non-Functional
+"The system should allow exporting medical records as PDF.",Functional
+"The application must limit failed login attempts to prevent brute force attacks.",Non-Functional
+"Patient wait times should be displayed on the dashboard.",Functional
+"The system should support scheduling of recurring appointments.",Functional
+"The platform should provide a secure chat feature between doctors and patients.",Functional
+"Medical images should be stored using DICOM standards.",Non-Functional
+"The application should allow users to reset passwords via SMS verification.",Non-Functional
+"System should notify doctors of patient lab result availability.",Functional
+"The platform must support audit trails for billing activities.",Non-Functional
+"The application should provide a help section with FAQs.",Functional
+"Patient data should be backed up daily.",Non-Functional
+"The system must enforce encryption for data in transit and at rest.",Non-Functional
+"The platform should support integration with external lab systems.",Functional
+"The application should allow doctors to flag urgent cases.",Functional
+"System should provide customizable reports for hospital management.",Functional
+"User roles should include admin, doctor, nurse, and patient.",Functional
+"The platform should support appointment booking via mobile app.",Functional
+"The system should allow batch editing of patient records.",Functional
+"Application UI should be tested for cross-browser compatibility.",Non-Functional
+"The system should provide real-time updates on bed availability.",Functional
+"System must comply with local health authority regulations.",Non-Functional
+"The platform should support biometric identification for staff login.",Non-Functional
+"The application should log medication dispensing history.",Functional
+"The system should allow exporting audit logs for legal review.",Non-Functional
+"Patient consent forms should be digitized and stored securely.",Functional
+"The system should send reminders for annual health check-ups.",Functional
+"Application response time should not exceed 1 second for search queries.",Non-Functional
+"The platform should provide training materials for new users.",Functional
+"The system should support offline mode during network failures.",Non-Functional
+"Doctors should be able to add notes to patient profiles.",Functional
+"The system must provide a dashboard for tracking vaccination status.",Functional
+"The platform should allow scheduling of medical equipment maintenance.",Functional
+"System should support alerts for expiring licenses of medical staff.",Non-Functional
+"The application should support two-way messaging between patients and providers.",Functional
+"The platform must support multi-language user interface.",Non-Functional
+"The system should provide analytics on treatment effectiveness.",Functional
+"The application should comply with accessibility standards (WCAG 2.1).",Non-Functional
+"Doctors should be able to upload research articles for peer review.",Functional
+"System should automatically update patient records after lab tests.",Functional
+"The platform must have disaster recovery plans tested quarterly.",Non-Functional
+"The system should support role-based data export permissions.",Non-Functional
+"The application should allow patients to view billing history.",Functional
+"System should notify users of upcoming prescription renewals.",Functional
+"The platform should provide alerts for abnormal lab results.",Functional
+"Medical staff should be able to record shift handover notes.",Functional
+"The system should encrypt communications between users.",Non-Functional
+"The application should allow doctors to manage consultation schedules.",Functional
+

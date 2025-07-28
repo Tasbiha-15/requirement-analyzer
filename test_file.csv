@@ -1,0 +1,11 @@
+
+The system shall allow users to login using a username and password.
+The response time should be less than 2 seconds.
+Users may update their profile information anytime.
+The application must support multiple languages.
+Reports should be generated within 5 minutes of request.
+The system might send email notifications for important updates.
+The interface must be user-friendly and intuitive.
+Data should be backed up daily.
+The search function could return results in under 1 second.
+The system should handle at least 1000 simultaneous users.

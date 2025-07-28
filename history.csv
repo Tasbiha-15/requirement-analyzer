@@ -1,0 +1,42 @@
+Requirement,Type,Ambiguity,Ambiguous Words
+The response time should be less than 2 seconds.,Non-Functional,No,
+Users may update their profile information anytime.,Functional,Yes,may
+The application must support multiple languages.,Non-Functional,No,
+Reports should be generated within 5 minutes of request.,Functional,No,
+The system might send email notifications for important updates.,Functional,Yes,might
+The interface must be user-friendly and intuitive.,Non-Functional,Yes,"user-friendly, intuitive"
+Data should be backed up daily.,Non-Functional,Yes,should
+The search function could return results in under 1 second.,Functional,Yes,could
+The system should handle at least 1000 simultaneous users.,Non-Functional,No,
+The response time should be less than 2 seconds.,Non-Functional,No,
+Users may update their profile information anytime.,Functional,Yes,may
+The application must support multiple languages.,Non-Functional,No,
+Reports should be generated within 5 minutes of request.,Functional,No,
+The system might send email notifications for important updates.,Functional,Yes,might
+The interface must be user-friendly and intuitive.,Non-Functional,Yes,"user-friendly, intuitive"
+Data should be backed up daily.,Non-Functional,Yes,should
+The search function could return results in under 1 second.,Functional,Yes,could
+The system should handle at least 1000 simultaneous users.,Non-Functional,No,
+system must be easy to use,Non-Functional,Yes,easy
+system must be easy to use,Non-Functional,Yes,easy
+system must be easy to use,Non-Functional,Yes,easy
+system must be easy to use,Non-Functional,Yes,easy
+syatem must be easy to use,Non-Functional,Yes,easy
+The response time should be less than 2 seconds.,Non-Functional,No,
+Users may update their profile information anytime.,Functional,Yes,may
+The application must support multiple languages.,Non-Functional,No,
+Reports should be generated within 5 minutes of request.,Functional,No,
+The system might send email notifications for important updates.,Functional,Yes,might
+The interface must be user-friendly and intuitive.,Non-Functional,Yes,"user-friendly, intuitive"
+Data should be backed up daily.,Non-Functional,Yes,should
+The search function could return results in under 1 second.,Functional,Yes,could
+The system should handle at least 1000 simultaneous users.,Non-Functional,No,
+The response time should be less than 2 seconds.,Non-Functional,No,
+Users may update their profile information anytime.,Functional,Yes,may
+The application must support multiple languages.,Non-Functional,No,
+Reports should be generated within 5 minutes of request.,Functional,No,
+The system might send email notifications for important updates.,Functional,Yes,might
+The interface must be user-friendly and intuitive.,Non-Functional,Yes,"user-friendly, intuitive"
+Data should be backed up daily.,Non-Functional,Yes,should
+The search function could return results in under 1 second.,Functional,Yes,could
+The system should handle at least 1000 simultaneous users.,Non-Functional,No,
